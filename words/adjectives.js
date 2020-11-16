@@ -2,8 +2,9 @@
 // the list comes from this gem:
 // http://www.ashley-bovan.co.uk/words/partsofspeech.html
 
-module.exports = ["abased",
-"abject",
+module.exports = [
+// "abased", - lerázott, megalázott
+// "abject", - siralmas, alávaló
 "able",
 "abloom",
 "ablush",
@@ -12,17 +13,17 @@ module.exports = ["abased",
 "abroach",
 "abroad",
 "abrupt",
-"abscessed",
+//"abscessed", - tályogolt
 "absolved",
 "absorbed",
-"abstruse",
-"absurd",
-"abused",
+// "abstruse", - homályos, rejtett értelmű
+// "absurd",
+// "abused",
 "abuzz",
 "accrete",
 "accrued",
-"accurst",
-"acerb",
+// "accurst", - átokkal súlytott
+// "acerb", - keserű
 "aching",
 "acock",
 "acold",
