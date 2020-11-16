@@ -25,14 +25,14 @@ module.exports = [
 // "accurst", - átokkal súlytott
 // "acerb", - keserű
 "aching",
-"acock",
+//"acock", - being in a cocked position
 "acold",
 "acorned",
 "acred",
-"acrid",
+// "acrid", - fanyar
 "acting",
 "added",
-"addle",
+// "addle", - megrohasztott
 "addorsed",
 "adept",
 "adjunct",
@@ -42,37 +42,37 @@ module.exports = [
 "adrift",
 "adroit",
 "adscript",
-"adult",
-"adunc",
+// "adult",
+// "adunc", - függő
 "adust",
 "advised",
 "aery",
-"afeard",
-"afeared",
+// "afeard", - félve
+// "afeared", - félve
 "affine",
 "affined",
 "afire",
 "aflame",
 "afloat",
 "afoot",
-"afoul",
-"afraid",
+// "afoul", - offsensive to the senses
+// "afraid",
 "after",
 "aftmost",
-"agape",
+// "agape", - wide open, gaping
 "agaze",
 "aged",
 "ageing",
 "ageless",
 "agelong",
-"aggrieved",
-"aghast",
+// "aggrieved", - sértett
+// "aghast", - megdöbbent
 "agile",
 "aging",
 "agleam",
 "agley",
 "aglow",
-"agnate",
+// "agnate", - vérrokon
 "ago",
 "agog",
 "agone",
@@ -82,16 +82,16 @@ module.exports = [
 "ahorse",
 "ahull",
 "aidful",
-"aidless",
-"ailing",
-"aimless",
+// "aidless", - segély nélküli
+// "ailing", - gyengélkedő
+// "aimless", - céltalan
 "ain",
 "air",
 "airborne",
-"airless",
-"airsick",
+// "airless", - levegőtlen
+// "airsick", - légibeteg
 "airtight",
-"ajar",
+// "ajar", - slightly open
 "akin",
 "alar",
 "alate",
@@ -104,40 +104,40 @@ module.exports = [
 "alike",
 "alined",
 "alive",
-"alleged",
+// "alleged", - állítólagos
 "allowed",
 "alloyed",
 "alone",
-"aloof",
+// "aloof", - tartózkodó
 "alright",
 "altered",
 "altern",
-"alvine",
+// "alvine", - wtf?
 "amazed",
 "amber",
-"amiss",
+// "amiss", - rosszul
 "amok",
-"amort",
+// "amort", - being at the point of death
 "ample",
 "amuck",
 "amused",
 "android",
 "angled",
 "anguine",
-"anguished",
+// "anguished", - kínos
 "anile",
 "announced",
 "ansate",
-"anti",
+// "anti",
 "antic",
 "antique",
 "antlered",
 "antlike",
 "antrorse",
-"anxious",
+// "anxious",
 "apart",
 "apeak",
-"apish",
+// "apish", - majomszerű
 "appalled",
 "applied",
 "appressed",
@@ -149,28 +149,28 @@ module.exports = [
 "armless",
 "armored",
 "aroid",
-"aroused",
+// "aroused",
 "arranged",
 "arrant",
-"arrased",
-"arrhythmic",
+// "arrased", - vonszolt
+// "arrhythmic", - ritmuszavaros
 "artful",
-"artless",
+// "artless", - művészietlen
 "arty",
-"ashake",
-"ashamed",
+// "ashake", - remegő
+// "ashamed",
 "ashen",
-"ashy",
-"askance",
+// "ashy", - hamuval borított
+// "askance", - gyanakodó
 "askant",
-"askew",
+// "askew", - ferde
 "asking",
-"aslant",
-"asleep",
-"aslope",
+// "aslant", - ferde
+// "asleep", - alvó
+// "aslope", - lejtős
 "asphalt",
-"asprawl",
-"asquint",
+// "asprawl", - terpeszkedő
+// "asquint", - kancsal
 "assumed",
 "assured",
 "astir",
@@ -188,39 +188,39 @@ module.exports = [
 "attuned",
 "audile",
 "aurous",
-"austere",
-"averse",
-"avid",
+// "austere", - szigorú
+// "averse", - idegenkedő
+// "avid", - mohó
 "avowed",
 "awake",
 "aware",
 "awash",
 "away",
-"aweless",
+// "aweless", - inspiring no awe
 "awesome",
-"awestruck",
-"awful",
+// "awestruck", - félelmetes
+// "awful",
 "awheel",
-"awing",
-"awkward",
+// "awing", - félelmetes
+// "awkward",
 "awnless",
-"awry",
+// "awry", - in a turned or twisted position or direction
 "axile",
 "azure",
-"babbling",
+// "babbling",
 "baccate",
 "backboned",
 "backhand",
-"backless",
+// "backless",
 "backmost",
 "backstage",
 "backstair",
 "backstairs",
-"backswept",
-"backward",
+// "backswept", - visszasírt
+// "backward",
 "backwoods",
-"baddish",
-"baffling",
+// "baddish",
+// "baffling", - zavarba ejtő
 "baggy",
 "bairnly",
 "balanced",
